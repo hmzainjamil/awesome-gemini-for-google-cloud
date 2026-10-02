@@ -19,3 +19,5 @@ No checked `docs/README.md`, `examples/README.md`, package manifest, or security
 
 The old README's install, API, cost model, benchmark, case study, and test claims are not verified. See [CONTENT_REVIEW.md](CONTENT_REVIEW.md) for paths checked.
 
+
+See [SECURITY.md](SECURITY.md) for cloud integration review guidance.
