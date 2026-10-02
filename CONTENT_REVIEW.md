@@ -2,6 +2,6 @@
 
 Date: 2026-10-02
 
-The previous README described a curated Gemini/GCP resource index but contained unsupported plugin installation, package APIs, configuration, cost model, benchmarks, case studies, tests, and feature claims. Checked paths `docs/README.md`, `docs/assets/banner.png`, `package.json`, `SECURITY.md`, `CONTRIBUTING.md`, and `examples/README.md` returned not found. The root license text is GNU GPL.
+A recursive tree check on `docs/gemini-gcp-list-scope-and-evidence` found the root README, `LICENSE`, `SECURITY.md`, and this review file. It found no `docs/README.md`, `examples/README.md`, package manifest, or contribution guide. The earlier statement that a security policy was absent was incorrect.
 
-Repository search was unavailable; this is not a full recursive tree review. The README now avoids asserting a verified resource catalog. No current Google Cloud product, pricing, compatibility, or data-handling claim was independently validated.
+The root README now records the policy's presence and limits claims to checked repository facts. No linked resource, Google Cloud product detail, pricing, API example, or compatibility claim was independently validated. No tests were run.
